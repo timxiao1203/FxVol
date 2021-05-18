@@ -43,8 +43,10 @@ FX Volatility Data
 
 	The original volatility cannot be used for valuation directly. The processed ready-to-use FX implied volatility surface looks like
 
+References:
 
-
-You can find more details at
 https://finpricing.com/lib/FxVolIntroduction.html
+
+https://bitbucket.org/timxiao1203/fxvol/downloads/FxVol-5.pdf
+
 
