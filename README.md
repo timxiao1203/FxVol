@@ -46,7 +46,3 @@ FX Volatility Data
 References:
 
 https://finpricing.com/lib/FxVolIntroduction.html
-
-https://bitbucket.org/timxiao1203/fxvol/downloads/FxVol-5.pdf
-
-
